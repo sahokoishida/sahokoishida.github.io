@@ -19,6 +19,7 @@ Currently I am involved in two projects on Food security in collaboration with [
 2. Forecasting and now-casting food secuity in the area where primary survey data is not available or interrupted. This is a joint work with Dr.[Francesca Panero](https://francescapanero.github.io/).
 
 
+Other things
 -----
 Having suffered from eating disorder for a large part of my high school and undergraduate study and chronic fatigue syndrome during my PhD, I'd like to be understanding of everyone who suffers from health issues. 
 * I support [BEAT](https://www.beateatingdisorders.org.uk), a UK based charity organisation, whenever I can.
