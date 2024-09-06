@@ -21,6 +21,6 @@ Currently I am involved in two projects on Food security in collaboration with [
 
 Other things
 -----
-Having suffered from eating disorder for a large part of my high school and undergraduate study and chronic fatigue syndrome during my PhD, I'd like to be understanding of everyone who suffers from health issues. 
+Having suffered from eating disorder for a large part of my high school and undergraduate study and chronic fatigue syndrome during my PhD, I'd like to be understanding of everyone who is affected by health issues. 
 * I support [BEAT](https://www.beateatingdisorders.org.uk), a UK based charity organisation, whenever I can.
-* Any prospetive students with health issues considering doing a PhD, or others, are more than welcomeed to reach out!
+* Any prospetive students with health issues considering doing a PhD, or others, are more than welcomed to reach out!
