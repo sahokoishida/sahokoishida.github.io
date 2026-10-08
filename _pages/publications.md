@@ -26,18 +26,19 @@ Pre-print
 ---------
 * **Ishida, S.**, Howes, A., Bradley, V., Semenova, E., Rashid, T., Dzumbunu, S., Bajaj, S., Singhal, G., Sejdinovic, D., Zvirere, H., Piovani, D., Passeri, S., Hachethethu, K., Husain, A., Kembo, G. D., Kairiza, T., & Flaxman, S. (2026). Real-time small area estimation of food security in Zimbabwe: integrating mobile-phone and face-to-face surveys using joint multilevel regression and poststratification. *Under review*. [Link to manuscript](https://arxiv.org/abs/2505.03517)
 
-* **Ishida, S.**, Osman, M., Cui, Z., Agu, U., Becher, E., Battcock, G., Hernandez, D., Piovani, D., Knight, F., Flaxman, S., & Tang, K. (2026). Mapping Subnational Vulnerability to Inadequate Micronutrient Intake using a Bayesian Small Area Estimation Framework. *Under review*. [Link to manuscript](https://arxiv.org/abs/2604.14971)
+* **Ishida, S.**<sup>†</sup>, Osman, M.<sup>†</sup>, Cui, Z., Agu, U., Becher, E., Battcock, G., Hernandez, D., Piovani, D., Knight, F., Flaxman, S., & Tang, K. (2026). Mapping Subnational Vulnerability to Inadequate Micronutrient Intake using a Bayesian Small Area Estimation Framework. *Under review*. [Link to manuscript](https://arxiv.org/abs/2604.14971)
 
 * Ma, Y., **Ishida, S.**, Cain, K., & Wallin, G. (2026). NLP-Informed Dynamic Cognitive Diagnosis Modelling. *Under review*. [Link to manuscript](https://arxiv.org/abs/2604.07179)
 
 * Ma, Y., **Ishida, S.**, Cain, K., & Wallin, G. (2026). Interpreting Learning Under Competing Models: Joint and Stepwise Approaches for Dynamic Cognitive Diagnosis. *Under review*. [Link to manuscript](https://arxiv.org/abs/2606.06804)
 
-* Kopp, E., **Ishida, S.**, Leygonie, R., & Panero, F. (2026). Filling survey gaps in food security monitoring with spatio-temporal additive Gaussian process models. *Under review*. [Link to manuscript](https://arxiv.org/abs/2608.14314)
+* Kopp, E.<sup>†</sup>, **Ishida, S.**<sup>†</sup>, Leygonie, R., & Panero, F. (2026). Filling survey gaps in food security monitoring with spatio-temporal additive Gaussian process models. *Under review*. [Link to manuscript](https://arxiv.org/abs/2608.14314)
 
 * **Ishida, S.**, Panero, F., & Bergsma, W. (2026). Hierarchical additive interaction modelling with Gaussian process prior and its efficient implementation for multidimensional grid data. [Link to manuscript](https://arxiv.org/abs/2305.07073)
 
 * Yang, F., **Ishida, S.**, Zhang, M., Jenson, D., Mishra, S., Navott, J., & Flaxman, S. (2026). Uncertainty-Aware Regression for Socio-Economic Estimation via Multi-View Remote Sensing. [Link to manuscript](https://arxiv.org/abs/2411.14119)
 
+<sup>†</sup> Co-first authors.
 
 Working paper
 ---------
