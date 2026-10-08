@@ -15,20 +15,34 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+Peer-reviewed
+---------
+* Panero, F., & **Ishida, S.** (2026). Enhancing modelling of food security through Bayesian inference. *Statistics and Data Science (SDS 2026)*. Accepted.
+
+* Iulita, M. F., Kolachalama, V. B., Brugada-Ramentol, V., Harrison, J., Griffin, N., Sánchez Benavides, G., Vera-Campuzano, E., Minguillon, C., Alcolea, D., Mackintosh, L., Ward, L., Tort Merino, A., Balasa, M., **Ishida, S.**, Grau Rivera, O., Suarez Calvet, M., Robertson, J., Doecke, J., Porta Mas, C., Fallone, S., Charvat, M., Tarnanas, I., Jones, M., & Streel, E. (2026). A Multimodal Digital NeuroMarker Platform with Composite and Domain-Level Validity for Detecting Mild Cognitive Impairment. *eClinicalMedicine*. Accepted.
+
+
 Pre-print
 ---------
-* **Ishida, S.**, & Bergsma, W. (2023+). Efficient and Interpretable Additive Gaussian Process Regression on a Multidimensional Grid. *In submission*. [Link to manuscript](https://arxiv.org/abs/2305.07073)
+* **Ishida, S.**, Howes, A., Bradley, V., Semenova, E., Rashid, T., Dzumbunu, S., Bajaj, S., Singhal, G., Sejdinovic, D., Zvirere, H., Piovani, D., Passeri, S., Hachethethu, K., Husain, A., Kembo, G. D., Kairiza, T., & Flaxman, S. (2026). Real-time small area estimation of food security in Zimbabwe: integrating mobile-phone and face-to-face surveys using joint multilevel regression and poststratification. *Under review*. [Link to manuscript](https://arxiv.org/abs/2505.03517)
 
-* Yang, F., **Ishida, S.**, Zhang, M. Jenson, D., Mishra S, Navott, J., & Flaxman S. (2024+). Uncertainty-Aware Regression for Socio-Economic Estimation via Multi-View Remote Sensing. [Link to manuscript](https://arxiv.org/abs/2411.14119)
+* **Ishida, S.**, Osman, M., Cui, Z., Agu, U., Becher, E., Battcock, G., Hernandez, D., Piovani, D., Knight, F., Flaxman, S., & Tang, K. (2026). Mapping Subnational Vulnerability to Inadequate Micronutrient Intake using a Bayesian Small Area Estimation Framework. *Under review*. [Link to manuscript](https://arxiv.org/abs/2604.14971)
 
-* **Ishida, S.**, et al. (2025+). Real-time small area estimation of food security in Zimbabwe: integrating mobile-phone and face-to-face surveys using joint multilevel regression and poststratification. *In submission*. [Link to manuscript](https://arxiv.org/abs/2505.03517)
+* Ma, Y., **Ishida, S.**, Cain, K., & Wallin, G. (2026). NLP-Informed Dynamic Cognitive Diagnosis Modelling. *Under review*. [Link to manuscript](https://arxiv.org/abs/2604.07179)
+
+* Ma, Y., **Ishida, S.**, Cain, K., & Wallin, G. (2026). Interpreting Learning Under Competing Models: Joint and Stepwise Approaches for Dynamic Cognitive Diagnosis. *Under review*. [Link to manuscript](https://arxiv.org/abs/2606.06804)
+
+* Kopp, E., **Ishida, S.**, Leygonie, R., & Panero, F. (2026). Filling survey gaps in food security monitoring with spatio-temporal additive Gaussian process models. *Under review*. [Link to manuscript](https://arxiv.org/abs/2608.14314)
+
+* **Ishida, S.**, Panero, F., & Bergsma, W. (2026). Hierarchical additive interaction modelling with Gaussian process prior and its efficient implementation for multidimensional grid data. [Link to manuscript](https://arxiv.org/abs/2305.07073)
+
+* Yang, F., **Ishida, S.**, Zhang, M., Jenson, D., Mishra, S., Navott, J., & Flaxman, S. (2026). Uncertainty-Aware Regression for Socio-Economic Estimation via Multi-View Remote Sensing. [Link to manuscript](https://arxiv.org/abs/2411.14119)
+
 
 Working paper
 ---------
-* **Ishida, S.**  et al. Active learning sampling design: a new adaptive survey design paradigm. 
+* Riha, A. E., **Ishida, S.**, Howes, A., Flaxman, S., & Semenova, E. Bayesian optimisation and active learning using probabilistic programming.
 
-* **Ishida, S.** & Bergsma, W. Bayesian small area estimation of micronutrient deficiency
+* **Ishida, S.**, et al. Active learning sampling design: a new adaptive survey design paradigm.
 
-* **Ishida, S.** & Bergsma, W. Missing value imputation for GP regression with incomplete Cartesian grid structure 
-
-* Panero, F., &**Ishida, S.** (2024+) Nowcasting and forecasting food insecurities with Gaussian Processes
+* **Ishida, S.** & Wallin, G. Latent Variable Gaussian Processes for Individualised Longitudinal Trajectories.
