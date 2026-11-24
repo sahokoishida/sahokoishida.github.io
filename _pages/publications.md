@@ -19,9 +19,9 @@ Peer-reviewed
 ---------
 * Panero, F., & **Ishida, S.** (2026). Enhancing modelling of food security through Bayesian inference. *Statistics and Data Science (SDS 2026)*. Accepted.
 
-* Iulita, M. F., Kolachalama, V. B., Brugada-Ramentol, V., Harrison, J., Griffin, N., Sánchez Benavides, G., Vera-Campuzano, E., Minguillon, C., Alcolea, D., Mackintosh, L., Ward, L., Tort Merino, A., Balasa, M., **Ishida, S.**, Grau Rivera, O., Suarez Calvet, M., Robertson, J., Doecke, J., Porta Mas, C., Fallone, S., Charvat, M., Tarnanas, I., Jones, M., & Streel, E. (2026). A Multimodal Digital NeuroMarker Platform with Composite and Domain-Level Validity for Detecting Mild Cognitive Impairment. *eClinicalMedicine*. 
+* Iulita, M. F., Kolachalama, V. B., Brugada-Ramentol, V., Harrison, J., Griffin, N., Sánchez Benavides, G., Vera-Campuzano, E., Minguillon, C., Alcolea, D., Mackintosh, L., Ward, L., Tort Merino, A., Balasa, M., **Ishida, S.**, Grau Rivera, O., Suarez Calvet, M., Robertson, J., Doecke, J., Porta Mas, C., Fallone, S., Charvat, M., Tarnanas, I., Jones, M., & Streel, E. (2026). A Multimodal Digital NeuroMarker Platform with Composite and Domain-Level Validity for Detecting Mild Cognitive Impairment. *eClinicalMedicine*. [10.1016/j.eclinm.2026.104266](https://doi.org/10.1016/j.eclinm.2026.104266)
 
-* **Ishida, S.**<sup>†</sup>, Osman, M.<sup>†</sup>, Cui, Z., Agu, U., Becher, E., Battcock, G., Hernandez, D., Piovani, D., Knight, F., Flaxman, S., & Tang, K. (2026). Mapping Subnational Vulnerability to Inadequate Micronutrient Intake using a Bayesian Small Area Estimation Framework. *Accepted for publication in International Journal of Health Geographics.*. [Link to manuscript](https://arxiv.org/abs/2604.14971)
+* **Ishida, S.**<sup>†</sup>, Osman, M.<sup>†</sup>, Cui, Z., Agu, U., Becher, E., Battcock, G., Hernandez, D., Piovani, D., Knight, F., Flaxman, S., & Tang, K. (2026). Mapping Subnational Vulnerability to Inadequate Micronutrient Intake using a Bayesian Small Area Estimation Framework. *Accepted for publication in International Journal of Health Geographics.*. [10.1186/s12942-026-00510-5](https://link.springer.com/article/10.1186/s12942-026-00510-5)
 
 Pre-print
 ---------
@@ -29,7 +29,7 @@ Pre-print
 
 * Ma, Y., **Ishida, S.**, Cain, K., & Wallin, G. (2026). NLP-Informed Dynamic Cognitive Diagnosis Modelling. *Under review*. [Link to manuscript](https://arxiv.org/abs/2604.07179)
 
-* Ma, Y., **Ishida, S.**, Cain, K., & Wallin, G. (2026). Interpreting Learning Under Competing Models: Joint and Stepwise Approaches for Dynamic Cognitive Diagnosis. *Under review*. [Link to manuscript](https://arxiv.org/abs/2606.06804)
+* Ma, Y., **Ishida, S.**, Cain, K., & Wallin, G. (2026). Interpreting Learning Under Competing Models: Joint and Stepwise Approaches for Dynamic Cognitive Diagnosis. *Under review*. [](https://arxiv.org/abs/2606.06804)
 
 * Kopp, E.<sup>†</sup>, **Ishida, S.**<sup>†</sup>, Leygonie, R., & Panero, F. (2026). Filling survey gaps in food security monitoring with spatio-temporal additive Gaussian process models. *Under review*. [Link to manuscript](https://arxiv.org/abs/2608.14314)
 

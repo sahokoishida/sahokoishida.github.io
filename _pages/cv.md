@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-Find my CV <u><a href="https://sahokoishida.github.io/files/cv.pdf">here</a></u>. Updated 10/2025.
+Find my CV <u><a href="https://sahokoishida.github.io/files/cv.pdf">here</a></u>. Updated 11/2026.
 <br/>
